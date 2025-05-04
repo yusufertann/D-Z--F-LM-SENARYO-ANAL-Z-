@@ -1,2 +1,2 @@
-# D-Z--F-LM-SENARYO-ANAL-Z-
+# Dizi-film-senaryo-analizi
 dizi film senaryo analizi yapay zeka ödevi
